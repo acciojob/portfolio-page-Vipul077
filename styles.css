@@ -1,2 +1,23 @@
 
-/* Your CSS Code here. */
+/* * Your CSS Code here.  */
+
+.page{
+	display: flex;
+	justify-content: center;
+	padding: 10px;
+	border: 2px solid black; 
+}
+
+.image-section{
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.detail-section{
+	padding: 10px;
+	border: 1px solid black;
+}
+
+h1{
+	text-align: center;
+}
